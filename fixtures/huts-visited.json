@@ -1,0 +1,25 @@
+[{
+  "id": 1,
+  "name": "Ball Hut",
+  "region": "Cantrbury",
+  "nationalPark": "Aoraki/Mount Cook National Park",
+  "dateVisited": "",
+  "price": 5,
+  "paid": true
+}, {
+  "id": 2,
+  "name": "Bealey Spur Hut",
+  "region": "Cantrbury",
+  "nationalPark": "Arthur's Pass National Park",
+  "dateVisited": "",
+  "price": null,
+  "paid": true
+}, {
+  "id": 3,
+  "name": "Black Hill Hutt",
+  "region": "Cantrbury",
+  "nationalPark": "Oxford Forest Conservation",
+  "dateVisited": "",
+  "price": 5,
+  "paid": false
+}]
