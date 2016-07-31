@@ -5,9 +5,6 @@ let bodyParser = require("body-parser");
 let port = process.env.PORT || 3000;
 
 
-// fixtures
-let huts = require("./fixtures/huts-visited.json");
-
 // just for a purpose of demo have status variable that indicates online and offline
 let status = true;
 
